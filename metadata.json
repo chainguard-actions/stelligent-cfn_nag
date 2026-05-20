@@ -1,7 +1,0 @@
-{
-  "owner": "stelligent",
-  "name": "cfn_nag",
-  "visibility": "internal",
-  "description": "Execute cfn_nag_scan against the code in the repository where the GitHub Action workflow is run.",
-  "block_publish": false
-}
