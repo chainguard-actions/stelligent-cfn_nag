@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v0.8.9 | [`v0.8.9`](https://github.com/chainguard-actions/stelligent-cfn_nag/tree/v0.8.9) | — |
+| v0.8.9 | [`v0.8.9`](https://github.com/chainguard-actions/stelligent-cfn_nag/tree/v0.8.9) | [`0f8532f`](https://github.com/stelligent/cfn_nag/commit/0f8532f067809e59f8829a943b7bb11e8c2a9d98) |
 
 ## Privacy
 
